@@ -1,5 +1,5 @@
 ## V2RAY EASY TO USE 
-### OneKey to deploy: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) or: [HeroKu/Deploy](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fsnvkv%2Fv2ray-heroku-web)
+### OneKey to deploy: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) or: [HeroKu/Deploy](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2FRAMAOT%2Fv2ray-heroku-web)
 
 - - -
 #### **Description**:
